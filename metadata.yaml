@@ -1,0 +1,45 @@
+_repo: The-King-of-the-Park_56831
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Barry, Etheldred B. (Etheldred Breeze)
+    aliases:
+    - Barry, Ethelred Breeze
+    - Barry, E. B. (Etheldred Breeze)
+    - Barry, Etheldred Breeze
+    birthdate: 1870
+    gutenberg_agent_id: '6348'
+    url: http://www.gutenberg.org/2009/agents/6348
+creator:
+  author:
+    agent_name: Saunders, Marshall
+    alias: Saunders, Margaret Marshall
+    birthdate: 1861
+    deathdate: 1947
+    gutenberg_agent_id: '1041'
+    url: http://www.gutenberg.org/2009/agents/1041
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
+description: ''
+gutenberg_issued: '2018-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animal welfare -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Parks -- Juvenile fiction'
+- !lcsh 'Police -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'City and town life -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- GITenberg
+title: The King of the Park
+url: http://www.gutenberg.org/ebooks/56831
